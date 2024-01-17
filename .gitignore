@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Winforms_FS/.vs/Winforms_FS/FileContentIndex
+/Winforms_FS/.vs/Winforms_FS/v17
+/Winforms_FS/.vs/Winforms_FS/DesignTimeBuild

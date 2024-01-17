@@ -15,3 +15,7 @@ C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-
 C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.pdb
 C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.genruntimeconfig.cache
 C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ref\ShoppingList.dll
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\Properties\Resources.resx
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.Properties.Resources.resources
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.Forms.ItemAddForm.resources
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.Forms.ItemDeleteForm.resources
