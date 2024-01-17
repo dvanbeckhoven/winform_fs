@@ -1,0 +1,17 @@
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.exe
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.deps.json
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.runtimeconfig.json
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.dll
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\bin\Debug\net8.0-windows\ShoppingList.pdb
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.MainForm.resources
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.csproj.GenerateResource.cache
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.AssemblyInfo.cs
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.sourcelink.json
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.dll
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\refint\ShoppingList.dll
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.pdb
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ShoppingList.genruntimeconfig.cache
+C:\Users\Developer Dommy\source\repos\Winforms_FS\ShoppingList\obj\Debug\net8.0-windows\ref\ShoppingList.dll
