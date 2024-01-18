@@ -7,6 +7,12 @@
     <Compile Update="Forms\ItemDeleteForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\ListAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ListSelectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>

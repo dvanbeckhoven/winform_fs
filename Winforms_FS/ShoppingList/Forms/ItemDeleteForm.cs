@@ -1,12 +1,12 @@
-﻿using ShoppingList.Models;
+﻿using ShoppingListApp.Models;
 
-namespace ShoppingList.Forms
+namespace ShoppingListApp.Forms
 {
-    public partial class ItemDeleteForm : Form
+    public partial class itemDeleteForm : Form
     {
         private static List<ShoppingListItem>? _shoppingListItems;
 
-        public ItemDeleteForm(List<ShoppingListItem> shoppingListItems)
+        public itemDeleteForm(List<ShoppingListItem> shoppingListItems)
         {
             _shoppingListItems = shoppingListItems;
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace ShoppingList.Forms
         {
             int i = itemListBox.SelectedIndex;
 
-            // Add data to MainForm
+            // Send data to MainForm
             MainForm mainForm = new MainForm();
             mainForm.RemoveItemFromList(i);
         }

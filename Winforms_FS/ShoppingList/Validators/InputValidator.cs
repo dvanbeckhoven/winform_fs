@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace ShoppingList.Validators
+namespace ShoppingListApp.Validators
 {    
     internal class InputValidator    
     {

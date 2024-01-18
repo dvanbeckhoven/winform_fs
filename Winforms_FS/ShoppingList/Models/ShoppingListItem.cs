@@ -1,4 +1,4 @@
-﻿namespace ShoppingList.Models
+﻿namespace ShoppingListApp.Models
 {
     public class ShoppingListItem
     {

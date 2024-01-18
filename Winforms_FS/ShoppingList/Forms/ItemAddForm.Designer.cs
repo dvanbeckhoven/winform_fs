@@ -1,4 +1,4 @@
-﻿namespace ShoppingList.Forms
+﻿namespace ShoppingListApp.Forms
 {
     partial class ItemAddForm
     {
@@ -142,7 +142,7 @@
             saveItemButton.TextAlign = ContentAlignment.MiddleLeft;
             saveItemButton.TextImageRelation = TextImageRelation.ImageBeforeText;
             saveItemButton.UseVisualStyleBackColor = false;
-            saveItemButton.Click += saveItemButton_Click;
+            saveItemButton.Click += SaveItemButton_Click;
             // 
             // itemQtyValue
             // 

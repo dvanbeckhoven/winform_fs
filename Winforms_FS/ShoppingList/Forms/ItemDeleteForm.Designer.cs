@@ -1,6 +1,6 @@
-﻿namespace ShoppingList.Forms
+﻿namespace ShoppingListApp.Forms
 {
-    partial class ItemDeleteForm
+    partial class itemDeleteForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ItemDeleteForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(itemDeleteForm));
             itemListBox = new ListBox();
             itemDeleteLabel = new Label();
             itemDeleteHintLabel = new Label();
@@ -86,7 +86,7 @@
             itemDeleteCloseButton.UseVisualStyleBackColor = false;
             itemDeleteCloseButton.Click += ItemDeleteCloseButton_Click;
             // 
-            // ItemDeleteForm
+            // itemDeleteForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -95,8 +95,8 @@
             Controls.Add(itemDeleteHintLabel);
             Controls.Add(itemDeleteLabel);
             Controls.Add(itemListBox);
-            Name = "ItemDeleteForm";
-            Text = "ItemDeleteForm";
+            Name = "itemDeleteForm";
+            Text = "Delete Item from List";
             Load += ItemDeleteForm_Load;
             ResumeLayout(false);
             PerformLayout();

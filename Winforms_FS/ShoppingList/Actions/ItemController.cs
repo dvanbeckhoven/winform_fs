@@ -1,6 +1,6 @@
-﻿using ShoppingList.Models;
+﻿using ShoppingListApp.Models;
 
-namespace ShoppingList.Actions
+namespace ShoppingListApp.Actions
 {
     internal class ItemController
     {

@@ -1,4 +1,4 @@
-﻿namespace ShoppingList
+﻿namespace ShoppingListApp
 {
     partial class MainForm
     {
@@ -111,6 +111,7 @@
             selectListButton.TextAlign = ContentAlignment.MiddleLeft;
             selectListButton.TextImageRelation = TextImageRelation.ImageBeforeText;
             selectListButton.UseVisualStyleBackColor = false;
+            selectListButton.Click += SelectListButton_Click;
             // 
             // newListButton
             // 
@@ -129,6 +130,7 @@
             newListButton.TextAlign = ContentAlignment.MiddleLeft;
             newListButton.TextImageRelation = TextImageRelation.ImageBeforeText;
             newListButton.UseVisualStyleBackColor = false;
+            newListButton.Click += NewListButton_Click;
             // 
             // saveListButton
             // 
@@ -208,7 +210,7 @@
             // 
             euroSignLabel.AutoSize = true;
             euroSignLabel.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            euroSignLabel.Location = new Point(305, 566);
+            euroSignLabel.Location = new Point(305, 569);
             euroSignLabel.Name = "euroSignLabel";
             euroSignLabel.Size = new Size(25, 30);
             euroSignLabel.TabIndex = 10;

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer Dommy\\source\\repos\\Winforms_FS\\ShoppingList\\ShoppingList.csproj",
-      "projectName": "ShoppingList",
-      "projectPath": "C:\\Users\\Developer Dommy\\source\\repos\\Winforms_FS\\ShoppingList\\ShoppingList.csproj",
+      "projectUniqueName": "C:\\Users\\Developer Dommy\\source\\repos\\Winforms_FS\\ShoppingList\\ShoppingListApp.csproj",
+      "projectName": "ShoppingListApp",
+      "projectPath": "C:\\Users\\Developer Dommy\\source\\repos\\Winforms_FS\\ShoppingList\\ShoppingListApp.csproj",
       "packagesPath": "C:\\Users\\Developer Dommy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Developer Dommy\\source\\repos\\Winforms_FS\\ShoppingList\\obj\\",
       "projectStyle": "PackageReference",

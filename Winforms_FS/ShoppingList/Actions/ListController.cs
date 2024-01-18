@@ -1,4 +1,4 @@
-﻿namespace ShoppingList.Actions
+﻿namespace ShoppingListApp.Actions
 {
     internal class ListController
     {

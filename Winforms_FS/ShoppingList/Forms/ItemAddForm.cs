@@ -1,19 +1,19 @@
-﻿using ShoppingList.Models;
-using ShoppingList.Validators;
+﻿using ShoppingListApp.Models;
+using ShoppingListApp.Validators;
 
-namespace ShoppingList.Forms
+namespace ShoppingListApp.Forms
 {
     public partial class ItemAddForm : Form
     {
-        private int itemId;
+        private int _itemId;
 
         public ItemAddForm(int newId)
         {            
             InitializeComponent();
-            itemId = newId;
+            _itemId = newId;
         }
 
-        private void saveItemButton_Click(object sender, EventArgs e)
+        private void SaveItemButton_Click(object sender, EventArgs e)
         {
             try
             {
@@ -26,7 +26,7 @@ namespace ShoppingList.Forms
                 // No exceptions, add item to current shopping list
                var item = new ShoppingListItem()
                 {
-                    Id = itemId,
+                    Id = _itemId,
                     Name = itemName,
                     Description = itemDescription,
                     Price = itemPrice,
